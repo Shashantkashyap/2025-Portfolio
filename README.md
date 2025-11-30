@@ -77,10 +77,14 @@ Portfolio/
 ## 📸 Screenshots
 
 - Home / Hero Section
-  !(./public/assets/screenshots/Home.png)
-- About Section  
-- Projects Showcase  
-- Contact Page  
+  <img src="./public/assets/Screenshots/Home.png" width="600" />
+- About Section
+  <img src="./public/assets/Screenshots/About.png" width="600" />
+- Projects Showcase
+  <img src="./public/assets/Screenshots/Projects.png" width="600" />
+- Contact Page
+  <img src="./public/assets/Screenshots/Contact.png" width="600" />
+
 
 ---
 
@@ -98,7 +102,7 @@ Just build the project and upload the `dist/` folder.
 
 **👤 Shashant Kashyap**  
 GitHub: https://github.com/Shashantkashyap  
-Email: *(Add your email here)*  
+Email: *Shashant.kashyap999@gmail.com*  
 
 ---
 
