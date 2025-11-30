@@ -15,6 +15,15 @@ const Footer = () => {
           </a>
         ))}
       </div>
+     <a
+  href="https://drive.google.com/file/d/1frK76JhbSKwX6dH0BsgOjsrY765d3uK2/view?usp=sharing"
+  target="_blank"
+  rel="noopener noreferrer"
+  class="px-6 py-3  text-white  rounded-xl shadow-lg hover:shadow-xl hover:scale-105 transition-transform duration-200"
+>
+  My Professional Lore 📜
+</a>
+
       <p>© 2025 Ali. All rights reserved.</p>
     </section>
   );
