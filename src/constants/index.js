@@ -183,7 +183,7 @@ export const experiences = [
   },
   {
     title: "Freelance Developer",
-    job: "Self-Employed",
+    job: "",
     date: "2023-Present",
     contents: [
 "       Completed 15+ freelance projects, including one for DOIT, Govt. of Rajasthan.",
