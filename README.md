@@ -1,16 +1,107 @@
-# React + Vite
+# Portfolio — Shashant Kashyap
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, modern and responsive personal portfolio website built using **React**, **Vite**, and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+Live Demo: *(Add your deployed link here)*  
+Example: https://your-portfolio-url.com
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 📌 About the Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This is my personal portfolio for 2025 — designed to showcase:
 
-## Expanding the ESLint configuration
+- My Skills  
+- My Projects  
+- My Experience  
+- My Resume  
+- Ways to Contact Me  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The goal is to create a fast, minimal and professional online identity.
+
+---
+
+## 🧠 Tech Used
+
+- **React.js**  
+- **Vite**  
+- **Tailwind CSS**  
+- **JavaScript (ES6+)**  
+- **Responsive Design**  
+
+---
+
+## 📁 Folder Structure
+Portfolio/
+
+├── src/
+
+│ ├── App.jsx
+
+│ ├── main.jsx
+
+│ ├── index.css
+
+│ ├── assets/
+
+│ ├── components/
+
+│ ├── sections/
+
+│ └── data/
+
+├── index.html
+
+├── package.json
+
+├── tailwind.config.js 
+
+├── vite.config.js 
+
+└── README.md 
+
+
+---
+
+## 🚀 Features
+
+- Fully responsive  
+- Clean UI & modern layout  
+- Smooth transitions  
+- Simple component architecture  
+- Easy to customize  
+- Fast load times (Vite bundler)  
+
+---
+
+## 📸 Screenshots
+
+- Home / Hero Section
+  !(./public/assets/screenshots/Home.png)
+- About Section  
+- Projects Showcase  
+- Contact Page  
+
+---
+
+## 🌎 Deployment
+
+This portfolio can be deployed on:
+
+- **Vercel** 
+
+Just build the project and upload the `dist/` folder.
+
+---
+
+## 📬 Contact
+
+**👤 Shashant Kashyap**  
+GitHub: https://github.com/Shashantkashyap  
+Email: *(Add your email here)*  
+
+---
+
+⭐ **If you like this portfolio, please give the repo a star!**
+
+
