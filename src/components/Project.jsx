@@ -31,10 +31,10 @@ const Project = ({
           className="flex items-center gap-1 cursor-pointer hover-animation"
         >
           Read More
-          <img src="assets/arrow-right.svg" className="w-5" />
+          <img src="assets/arrow-right.svg" alt="arrow logo" className="w-5" />
         </button>
       </div>
-      <div className="bg-gradient-to-r from-transparent via-neutral-700 to-transparent h-[1px] w-full" />
+      <div className="bg-linear-to-r from-transparent via-neutral-700 to-transparent h-[1px] w-full" />
       {isHidden && (
         <ProjectDetails
           title={title}

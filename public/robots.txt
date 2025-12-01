@@ -1,0 +1,5 @@
+
+User-agent: *
+Disallow:
+
+Sitemap: https://2025-portfolio-sigma-three.vercel.app/sitemap.xml

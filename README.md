@@ -77,13 +77,13 @@ Portfolio/
 ## 📸 Screenshots
 
 - Home / Hero Section
-  <img src="./public/assets/Screenshots/Home.png" width="600" />
+  <img src="./public/assets/Screenshots/Home.png" alt="Home logo" width="600" />
 - About Section
-  <img src="./public/assets/Screenshots/About.png" width="600" />
+  <img src="./public/assets/Screenshots/About.png" alt="About logo" width="600" />
 - Projects Showcase
-  <img src="./public/assets/Screenshots/Projects.png" width="600" />
+  <img src="./public/assets/Screenshots/Projects.png" alt="Projects logo" width="600" />
 - Contact Page
-  <img src="./public/assets/Screenshots/Contact.png" width="600" />
+  <img src="./public/assets/Screenshots/Contact.png" alt="Contact logo" width="600" />
 
 
 ---

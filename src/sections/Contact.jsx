@@ -28,7 +28,6 @@ const Contact = () => {
     setIsLoading(true);
 
     try {
-      console.log("From submitted:", formData);
       await emailjs.send(
         "service_ifqh895",
         "template_clgprzy",
@@ -46,7 +45,6 @@ const Contact = () => {
       showAlertMessage("success", "Your message has been sent!");
     } catch (error) {
       setIsLoading(false);
-      console.log(error);
       showAlertMessage("danger", "Somthing went wrong!");
     }
   };
