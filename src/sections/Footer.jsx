@@ -24,7 +24,7 @@ const Footer = () => {
   My Professional Lore 📜
 </a>
 
-      <p>© 2025 Ali. All rights reserved.</p>
+      <p>© 2025 Shashant. All rights reserved.</p>
     </section>
   );
 };
