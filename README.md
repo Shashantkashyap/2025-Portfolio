@@ -2,9 +2,6 @@
 
 A clean, modern and responsive personal portfolio website built using **React**, **Vite**, and **Tailwind CSS**.
 
-Live Demo: *(Add your deployed link here)*  
-Example: https://your-portfolio-url.com
-
 ---
 
 ## 📌 About the Project
